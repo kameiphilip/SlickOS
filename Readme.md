@@ -70,4 +70,4 @@ You can now build and run the operating system using the commands `make` and `ma
 - [ ] Terminal Text Editor Design Document
 
 # Contributing
-If you wish to contribute to the Slick OS repository, simply submit a pull request. Code not following the style of the rest of the project won't be accepted, nor will code without (at the minimum) rudimentary test cases.
+If yodu wish to contribute to the Slick OS repository, simply submit a pull request. Code not following the style of the rest of the project won't be accepted, nor will code without (at the minimum) rudimentary test cases.
